@@ -29,11 +29,22 @@ This data set includes information about the housing for elder citizen with mini
 
 This data set includes information about the apartments for elder citizen with minimum age of 55 to 62. It has data values describing name of the housing, address, city, state, zip code, phone number, email address, minimum age and geometrical coordinates
 
+**Merged Dataset**
+
+** Presubmission_meetings_and_Age_restricted_homes**
+
+This data set uses the data from the focal data set and Age
+
+
+
 ---------------
 Analysis
 ---------------
 
-By viewing the geometrical locations on an interactive map, I was able to understand whether the community meetings are accessible to elderly citizens.	
+**Pre-submission meetings held in Howard County are accessible for elderly citizens or not?**
+
+I viewed all the three datasets taken from Howard County data portal on an interactive map.
+By viewing the geometrical locations on an interactive map, one can analyze whether the community meetings are accessible to elderly citizens.	
 
 -----
 Files
@@ -82,4 +93,4 @@ Gulati, G. (2015). Presubmission_meetings_and_Age_restricted_homes [Data CSV fil
 Author
 -------
 
-Gavish Gulati
+Gavish Gulati.
