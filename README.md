@@ -46,7 +46,11 @@ Analysis
 I viewed all the three datasets taken from Howard County data portal on an interactive map.
 By viewing the geometrical locations on an interactive map, one can analyze whether the community meetings are accessible to elderly citizens.	
 
+Pre-submission community meeting venues
+
 ![alt tag](https://github.com/gavishgulati/INFM600/blob/master/meetings.jpg)
+
+Houses and apartments of senior citizens.
 
 ![alt tag](https://github.com/gavishgulati/INFM600/blob/master/Houses_Apartments.jpg)
 -----
