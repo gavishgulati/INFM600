@@ -10,13 +10,20 @@ Description
 -----------
 
 **Focal Data**
-Presubmission Community Meetings
-This file includes data about the Pre-submission community meetings held in the past and also mentions the details about future meetings. This dataset includes important details such as Project Name, Meeting Date, Meeting Time, Meeting Location Place, Meeting Location Address, Proposed Units, Coordinates and a few more details.
+
+**Presubmission Community Meetings**
+
+	This file includes data about the Pre-submission community meetings held in the past and also mentions the details 		about future meetings. This dataset includes important details such as Project Name, Meeting Date, Meeting Time, 		Meeting Location Place, Meeting Location Address, Proposed Units, Coordinates and a few more details.
+
 **Supporting Data Set**
-Age Restricted Houses
-This data set includes information about the housing for elder citizen with minimum age of 55 to 60. It has data values describing name of the housing, address, city, state, zip code, phone number, email address, minimum age and geometrical coordinates.
-Age Restricted Apartments
-This data set includes information about the apartments for elder citizen with minimum age of 55 to 62. It has data values describing name of the housing, address, city, state, zip code, phone number, email address, minimum age and geometrical coordinates
+
+**Age Restricted Houses**
+
+	This data set includes information about the housing for elder citizen with minimum age of 55 to 60. It has data 		values describing name of the housing, address, city, state, zip code, phone number, email address, minimum age 		and geometrical coordinates.
+
+**Age Restricted Apartments**
+
+	This data set includes information about the apartments for elder citizen with minimum age of 55 to 62. It has data 		values describing name of the housing, address, city, state, zip code, phone number, email address, minimum age 		and geometrical coordinates
 ---------------
 Analysis
 ---------------
