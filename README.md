@@ -21,8 +21,11 @@ This file includes data about the Pre-submission community meetings held in the 
 
 This data set includes information about the housing for elder citizen with minimum age of 55 to 60. It has data values describing name of the housing, address, city, state, zip code, phone number, email address, minimum age and geometrical coordinates.
 
-**Age Restricted Apartments**
 
+
+
+
+**Age Restricted Apartments**
 
 This data set includes information about the apartments for elder citizen with minimum age of 55 to 62. It has data values describing name of the housing, address, city, state, zip code, phone number, email address, minimum age and geometrical coordinates
 ---------------
