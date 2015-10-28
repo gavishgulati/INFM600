@@ -17,7 +17,7 @@ This file includes data about the Pre-submission community meetings held in the 
 
 **Supporting Data Set**
 
-**Age_Restricted_Houses.csv**
+**Age_Restricted_Homes.csv**
 
 This data set includes information about the housing for elder citizen with minimum age of 55 to 60. It has data values describing name of the housing, address, city, state, zip code, phone number, email address, minimum age and geometrical coordinates.
 
