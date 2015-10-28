@@ -45,6 +45,10 @@ Files
 
 *Age Restricted Apartments*
 
+*Presubmission_meetings_and_Age_restricted_homes*
+
+*Process Documentation*
+
 ------- 
 License
 -------
@@ -54,7 +58,7 @@ Attribution-NonCommercial-ShareAlike 4.0 International License (see
 http://creativecommons.org/licenses/by-nc-sa/4.0/).
    
 	The data is made available for non-commercial use. Those interested in using the data 
-   	in a commercial context should contact the owner.
+   	in a commercial context should contact the owner(Gavish Gulati).
 
 ----------------
 Acknowledgements
@@ -75,7 +79,7 @@ The Geographic Information Systems Division (2014) Age Restricted Apartments [Da
 Gulati, G. (2015). Presubmission_meetings_and_Age_restricted_homes [Data CSV file]. Available from https://github.com/gavishgulati/INFM600/
 
 -------
-Credits
+Author
 -------
 
-This dataset was built by Gavish Gulati.
+Gavish Gulati
