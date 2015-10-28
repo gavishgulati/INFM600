@@ -48,7 +48,7 @@ By viewing the geometrical locations on an interactive map, one can analyze whet
 
 ![alt tag](https://github.com/gavishgulati/INFM600/blob/master/meetings.jpg)
 
-
+![alt tag](https://github.com/gavishgulati/INFM600/blob/master/Houses_Apartments.jpg)
 -----
 Files
 -----
