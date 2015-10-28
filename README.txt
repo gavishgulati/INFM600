@@ -46,6 +46,13 @@ Analysis
 I viewed all the three datasets taken from Howard County data portal on an interactive map.
 By viewing the geometrical locations on an interactive map, one can analyze whether the community meetings are accessible to elderly citizens.	
 
+Pre-submission community meeting venues
+
+![alt tag](https://github.com/gavishgulati/INFM600/blob/master/meetings.jpg)
+
+Houses and apartments of senior citizens.
+
+![alt tag](https://github.com/gavishgulati/INFM600/blob/master/Houses_Apartments.jpg)
 -----
 Files
 -----
@@ -81,13 +88,13 @@ Acknowledgements
 References
 ----------
 
-The Geographic Information Systems Division. (2015). Presubmission Community Meetings [Data set CSV file]. Retrieved from https://data.howardcountymd.gov/
+The Geographic Information Systems Division. (2015). Presubmission Community Meetings [Data set CSV file]. Retrieved from https://data.howardcountymd.gov/. October 21, 2015
 
-The Geographic Information Systems Division (2014) Age Restricted Houses [Data set CSV file]. Retrieved from https://data.howardcountymd.gov/
+The Geographic Information Systems Division (2014) Age Restricted Houses [Data set CSV file]. Retrieved from https://data.howardcountymd.gov/. October 21, 2015
 
-The Geographic Information Systems Division (2014) Age Restricted Apartments [Data set CSV file]. Retrieved from https://data.howardcountymd.gov/
+The Geographic Information Systems Division (2014) Age Restricted Apartments [Data set CSV file]. Retrieved from https://data.howardcountymd.gov/. October 21, 2015
 
-Gulati, G. (2015). Presubmission_meetings_and_Age_restricted_homes [Data CSV file]. Available from https://github.com/gavishgulati/INFM600/
+Gulati, G. (2015). Presubmission_meetings_and_Age_restricted_homes [Data CSV file]. Available from https://github.com/gavishgulati/INFM600/.
 
 -------
 Author

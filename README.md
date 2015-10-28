@@ -88,13 +88,13 @@ Acknowledgements
 References
 ----------
 
-The Geographic Information Systems Division. (2015). Presubmission Community Meetings [Data set CSV file]. Retrieved from https://data.howardcountymd.gov/
+The Geographic Information Systems Division. (2015). Presubmission Community Meetings [Data set CSV file]. Retrieved from https://data.howardcountymd.gov/. October 21, 2015
 
-The Geographic Information Systems Division (2014) Age Restricted Houses [Data set CSV file]. Retrieved from https://data.howardcountymd.gov/
+The Geographic Information Systems Division (2014) Age Restricted Houses [Data set CSV file]. Retrieved from https://data.howardcountymd.gov/. October 21, 2015
 
-The Geographic Information Systems Division (2014) Age Restricted Apartments [Data set CSV file]. Retrieved from https://data.howardcountymd.gov/
+The Geographic Information Systems Division (2014) Age Restricted Apartments [Data set CSV file]. Retrieved from https://data.howardcountymd.gov/. October 21, 2015
 
-Gulati, G. (2015). Presubmission_meetings_and_Age_restricted_homes [Data CSV file]. Available from https://github.com/gavishgulati/INFM600/
+Gulati, G. (2015). Presubmission_meetings_and_Age_restricted_homes [Data CSV file]. Available from https://github.com/gavishgulati/INFM600/.
 
 -------
 Author
