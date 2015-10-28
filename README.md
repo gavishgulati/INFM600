@@ -39,9 +39,11 @@ By viewing the geometrical locations on an interactive map, I was able to unders
 Files
 -----
 
-*[Public Pre-submission community meetings]*
-*[Age Restricted Houses]*
-*[Age Restricted Apartments]*
+*Public Pre-submission community meetings*
+
+*Age Restricted Houses*
+
+*Age Restricted Apartments*
 
 ------- 
 License
