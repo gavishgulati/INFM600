@@ -31,7 +31,7 @@ This data set includes information about the apartments for elder citizen with m
 
 **Merged Dataset**
 
-**Presubmission_meetings_and_Age_restricted_homes**
+**Presubmission_meetings_and_Age_restricted_homes.csv**
 
 This data set uses the data from the focal data set and Age
 
